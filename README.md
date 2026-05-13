@@ -27,8 +27,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBugraKaplan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AhmetBugraKaplan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmetBugraKaplan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="AhmetBugraKaplan" /></p>
-
 <p><img align="center" src="https://streak-stats.demolab.com?user=AhmetBugraKaplan&theme=tokyonight&hide_border=true" alt="AhmetBugraKaplan" /></p>
